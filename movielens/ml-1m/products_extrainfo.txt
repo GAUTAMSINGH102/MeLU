@@ -1,0 +1,135 @@
+Handle,Title,Custom Product Type,Tags,Variant SKU
+ishya-blockprinted-kurta-set,Ishya Blockprinted Kurta  (Set of 2),Kurta Sets,"Category_Kurta Sets, Category_Women, Collection_Rozana, kurta for Women, Neck Type_V Neck, Price_3K to 4K",772
+ahaana-blockprinted-kurta-set,Ahaana Blockprinted Kurta (Set of 2),Kurta Sets,"Category_Kurta Sets, Category_Women, Collection_Rozana, kurta for Women, Neck Type_V Neck, Price_3K to 4K",766
+seher-blockprinted-kurta-set,Seher Blockprinted Kurta (Set of 2),Kurta Sets,"Category_Kurta Sets, Category_Women, Collection_Rozana, kurta for Women, Neck Type_V Neck, Price_3K to 4K",760
+mihira-blockprinted-kurta-set,Mihira Blockprinted Kurta (Set of 3),Kurta Sets,"Category_Kurta Sets, Category_Women, Collection_Rozana, kurta for Women, Neck Type_V Neck, Price_3K to 4K",754
+bahar-blockprinted-kurta-set,Bahar Blockprinted Kurta (Set of 3),Kurta Sets,"Category_Kurta Sets, Category_Women, Collection_Rozana, kurta for Women, Neck Type_V Neck, Price_3K to 4K",748
+keya-blockprinted-kurta-set,Keya Blockprinted Kurta (Set of 3),Kurta Sets,"Category_Kurta Sets, Category_Women, Collection_Rozana, kurta for Women, Neck Type_V Neck, Price_3K to 4K",742
+ekta-kaftan,Ekta Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_White, Neck Type_V Neck, Price_1K to 2K, Style_Short",727
+barna-kaftan,Barna Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_Mustard, Neck Type_V Neck, Price_1K to 2K, Style_Short",721
+saukhayada-kaftan,Saukhayada Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_Ice Blue, Neck Type_V Neck, Price_1K to 2K, Style_Short",715
+chesna-kaftan,Chesna Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_Blue, Neck Type_V Neck, Price_1K to 2K, Style_Short",709
+mohlat-kaftan,Mohlat Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_Sea Blue, Neck Type_V Neck, Price_1K to 2K, Style_Short",703
+subhita-kaftan,Subhita Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_Light Blue, Neck Type_V Neck, Price_1K to 2K, Style_Short",697
+reyaah-kaftan,Reyaah Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_Ice Blue, Neck Type_V Neck, Price_1K to 2K, Style_Short",691
+somaya-kaftan,Somaya Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_Grey, Neck Type_V Neck, Price_1K to 2K, Style_Short",685
+raahat-kaftan,Raahat Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_Peanut, Neck Type_V Neck, Price_1K to 2K, Style_Short",679
+naima-kaftan,Naima Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_Peach, Neck Type_V Neck, Price_1K to 2K, Style_Short",673
+saukhya-kaftan,Saukhya Kaftan,Kaftan,"Category_Kaftan, Category_Kurta, Category_Lounge Wear, Category_Women, Collection_Fursat ke Pal, Color_Indigo, Neck Type_V Neck, Price_1K to 2K, Style_Short",667
+dark-blue-deer-cotton-shirt,Dark  Blue Deer Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Dark Blue, Price_1K to 2K, Sale, Style_Men Shirt",663
+ash-cotton-shirt,Ash Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Ash, Price_1K to 2K, Sale, Style_Men Shirt",659
+brown-rifle-cotton-shirt,Brown Rifle  Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_White, Price_1K to 2K, Sale, Style_Men Shirt",655
+star-cotton-shirt,Star Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Purple, Price_1K to 2K, Sale, Style_Men Shirt",651
+grey-cotton-shirt,Grey Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Grey, Price_1K to 2K, Sale, Style_Men Shirt",647
+silver-cotton-shirt,Silver Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Silver, Price_1K to 2K, Sale, Style_Men Shirt",643
+antique-cotton-shirt,Antique Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Antique Moss, Price_1K to 2K, Sale, Style_Men Shirt",639
+maroon-scooter-cotton-shirt,Maroon Scooter Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Maroon, Price_1K to 2K, Sale, Style_Men Shirt",635
+pink-cotton-shirt,Pink Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Pink, Price_1K to 2K, Sale, Style_Men Shirt",631
+white-floral-cotton-shirt,White Floral Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_White, Price_1K to 2K, Sale, Style_Men Shirt",627
+panda-cotton-shirt,Panda Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Blue, Price_1K to 2K, Sale, Style_Men Shirt",623
+cream-polo-cotton-shirt,Cream Polo Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Cream, Price_1K to 2K, Sale, Style_Men Shirt",619
+red-flower-cotton-shirt,Red Flower Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_White, Price_1K to 2K, Sale, Style_Men Shirt",615
+maroon-telephoner-cotton-shirt,Maroon Telephoner Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_White, Price_1K to 2K, Sale, Style_Men Shirt",611
+green-car-cotton-shirt,Green Car Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_White, Price_1K to 2K, Sale, Style_Men Shirt",607
+buta-cotton-shirt,Buta Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Green, Price_1K to 2K, Sale, Style_Men Shirt",603
+brown-cotton-shirt,Brown Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Brown, Price_1K to 2K, Sale, Style_Men Shirt",599
+black-rickshaw-cotton-shirt,Black Rickshaw Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_White, Price_1K to 2K, Sale, Style_Men Shirt",591
+yellow-taxi-cotton-shirt,Yellow Taxi Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_White, Price_1K to 2K, Sale, Style_Men Shirt",587
+triangular-cotton-shirt,Triangular Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_White, Price_1K to 2K, Sale, Style_Men Shirt",583
+olive-green-cotton-shirt,Olive Green Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Olive Green, Price_1K to 2K, Sale, Style_Men Shirt",579
+light-blue-cotton-shirt,Light Blue Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Light Blue, Price_1K to 2K, Style_Men Shirt",575
+dark-blue-cotton-shirt,Dark Blue Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Dark Blue, Price_1K to 2K, Sale, Style_Men Shirt",571
+peanut-cotton-shirt,Peanut Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Peanut, Price_1K to 2K, Sale, Style_Men Shirt",567
+deer-cotton-shirt,Deer Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Ash, Price_1K to 2K, Style_Men Shirt",563
+yellow-cotton-shirt,Yellow Cotton Shirt,Shirt,"Category_Men, Category_Shirt, Collection_Nadiyan Kinare, Color_Yellow, Price_1K to 2K, Sale, Style_Men Shirt",555
+tawa-lounge-wear,Tawa Lounge Wear,Lounge Wear,"Category_Lounge Wear, Category_Women, Collection_Nadiyan Kinare, Color_Skin, Neck Type_Round Neck, Price_1K to 2K, Sale, Style_Round Neck Comfort Fit",529
+ponniayar-lounge-wear,Ponniayar Lounge Wear,Lounge Wear,"Category_Lounge Wear, Category_Women, Collection_Nadiyan Kinare, Color_Skin, Neck Type_Round Neck, Price_1K to 2K, Sale, Style_Round Neck Comfort Fit",523
+indryani-lounge-wear,Indryani Lounge Wear,Lounge wear,"Category_Lounge Wear, Category_Women, Collection_Nadiyan Kinare, Color_Grey, Color_Pink, Neck Type_V Neck, Price_1K to 2K, Sale",517
+mahi-lounge-wear,Mahi Lounge Wear,Lounge Wear,"Category_Lounge Wear, Category_Women, Collection_Nadiyan Kinare, Color_Skin, Neck Type_V Neck, Price_1K to 2K, Sale",511
+bheema-lounge-wear,Bheema Lounge Wear,Lounge Wear,"Category_Lounge Wear, Category_Women, Collection_Nadiyan Kinare, Color_Blue, Color_White, Neck Type_V Neck, Price_1K to 2K, Sale, Style_Broad Pants, Style_Kaftan",505
+kali-lounge-wear,Kali Lounge Wear,Lounge Wear,"Category_Lounge Wear, Category_Women, Collection_Nadiyan Kinare, Color_Dark Brown, Color_Purple, Neck Type_V Neck, Price_1K to 2K, Sale, Style_V Neck With Collar",493
+indus-lounge-wear,Indus Lounge Wear,Lounge Wear,"Category_Lounge Wear, Category_Women, Collection_Nadiyan Kinare, Color_Green, Neck Type_V Neck, Price_1K to 2K, Sale, Style_V Neck With Collar",487
+noyyal-lounge-wear,Noyyal Lounge Wear,Lounge Wear,"Category_Lounge Wear, Category_Women, Collection_Nadiyan Kinare, Color_Purple, Color_Silver, Neck Type_V Neck, Price_1K to 2K, Sale, Style_V Neck With Collar",481
+venna-lounge-wear,Venna Lounge Wear,,"Category_Lounge Wear, Category_Women, Collection_Nadiyan Kinare, Neck Type_V Neck, Price_1K to 2K, Style_V Neck With Collar",475
+suru-kurta,Suru Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Antique Moss, Neck Type_Round, Price_1K to 2K, Sale, Style_Straight Cut",277
+damodar-kurta,Damodar Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Skin, Neck Type_Round, Price_1K to 2K, Sale, Style_Straight Cut",271
+yamuna-kurta,Yamuna Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Purple, Neck Type_Round, Price_1K to 2K, Sale, Style_Straight Cut",265
+subarnarekha-kurta,Subarnarekha Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Black, Neck Type_Round, Price_1K to 2K, Sale, Style_Straight Cut",259
+wardha-kurta,Wardha Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Silver, Neck Type_Round, Price_1K to 2K, Sale, Style_A Line, Style_Front Slit",253
+zanskar-kurta,Zanskar Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Maroon, Neck Type_Round, Price_1K to 2K, Sale, Style_A Line, Style_Front Slit",247
+ganga-dupatta,Ganga dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_White, Color_Yellow, Price_1K to 2K, Style_Kota Doriya",552
+gomti-kurta,Gomti Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Purple, Neck Type_Round, Price_1K to 2K, Sale, Style_A Line, Style_Front Slit",241
+krishna-dupatta,Krishna dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_White, Color_Yellow, Price_1K to 2K, Sale, Style_Kota Doriya",551
+palar-dupatta,Palar dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_Black, Color_Orange, Price_1K to 2K, Sale, Style_Kota Doriya",550
+ganga-kurta,Ganga Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Yellow, Neck Type_V Neck, Price_1K to 2K, Style_A Line",235
+pranhita-dupatta,Pranhita dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_Light Blue, Price_1K to 2K, Sale, Style_Kota Doriya",548
+kolar-dupatta,Kolar dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_Light Blue, Price_1K to 2K, Sale, Style_Kota Doriya",547
+palar-kurta,Palar Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Black, Neck Type_Round Neck Slit, Price_1K to 2K, Sale, Style_A Line",229
+ravi-kurta,Ravi Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Blue, Color_Pink, Neck Type_Round Neck Slit, Price_1K to 2K, Style_A Line",223
+mandovi-dupatta,Mandovi dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_Dark Blue, Price_1K to 2K, Style_Kota Doriya",545
+pavana-dupatta,Pavana dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_Pink, Price_1K to 2K, Sale, Style_Kota Doriya",544
+hoogly-dupatta,Hoogly dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_Antique Moss, Price_1K to 2K, Sale, Style_Kota Doriya",543
+gomai-kurta,Gomai Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Orange, Color_White, Neck Type_Round Neck Slit, Price_1K to 2K, Sale, Style_A Line",217
+vaighai-dupatta,Vaighai dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_Antique Moss, Price_1K to 2K, Style_Kota Doriya",542
+tungabhadra-kurta,Tungabhadra Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Grey, Neck Type_V Neck, Price_1K to 2K, Sale, Style_A Line",211
+narmada-dupatta,Chaliyar Dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_Orange, Price_1K to 2K, Sale, Style_Kota Doriya",538
+pamba-kurta,Pamba Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Orange, Neck Type_V Neck, Price_1K to 2K, Sale, Style_A Line",205
+bhagirathi-dupatta,Bhagirathi dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_Peach, Price_1K to 2K, Sale, Style_Kota Doriya",537
+betwa-dupatta,Betwa dupatta,Dupatta,"Category_Dupatta, Category_Women, Collection_Nadiyan Kinare, Color_Blue, Color_White, Price_1K to 2K, Sale, Style_Kota Doriya",536
+pranhita-kurta,Pranhita Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_White, Color_Yellow, Neck Type_V Neck, Price_1K to 2K, Sale, Style_A Line",199
+ulhas-kurta,Ulhas Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Antique Moss, Neck Type_Round, Price_1K to 2K, Sale, Style_Straight Cut",193
+kolar-kurta,Kolar Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Teal Blue, Neck Type_Round, Price_1K to 2K, Style_Straight Cut",187
+amravati-kurta,Amravati kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Peach, Neck Type_Round, Price_1K to 2K, Sale, Style_Straight Cut",181
+pranhita-pant,Pranhita pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Blue, Price_0K-1K, Sale, Style_Cigarette Pant",469
+chenab-pant,Chenab pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_White, Price_0K-1K, Sale, Style_Broad Pant",463
+ganga-pant,Ganga pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_White, Price_0K-1K, Style_Cigarette Pant",457
+gomai-pant,Gomai pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_White, Price_0K-1K, Sale, Style_Cigarette Pant",451
+sutlej-pant,Sutlej pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Green, Color_White, Price_0K-1K, Style_Broad Pant",445
+bhagirathi-pant,Bhagirathi pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Peach, Color_White, Price_0K-1K, Sale, Style_Cigarette Pant",439
+tapti-pant,Tapti pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Peach, Price_0K-1K, Sale, Style_Cigarette Pant",433
+betwa-pant,Betwa pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_White, Price_0K-1K, Sale, Style_Cigarette Pant",427
+manjira-palazzo,Manjira palazzo,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_White, Price_0K-1K, Sale, Style_Palazzo",421
+hoogly-pant,Hoogly pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Antique Moss, Price_0K-1K, Sale, Style_Broad Pant",415
+hemavati-palazzo,Hemavati palazzo,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Grey, Color_White, Price_0K-1K, Sale, Style_Palazzo",397
+kaveri-pant,Kaveri pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Grey, Color_Yellow, Price_0K-1K, Sale, Style_Broad Pant",391
+vaighai-pant,Vaighai pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Antique Moss, Price_0K-1K, Sale, Style_Cigarette Pant",385
+doda-pant,Doda pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Brown, Price_0k-1K, Sale, Style_Cigarette Pant",373
+penner-kurti,Penner kurti,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Grey, Color_White, Neck Type_Short V-Neck, Price_1K to 2K, Sale, Style_Short",175
+sharavati-kurti,Sharavati kurti,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Yellow, Neck Type_Short V-Neck, Price_1K to 2K, Sale, Style_Short",169
+koyna-kurti,Koyna kurti,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Black, Neck Type_Short V-Neck, Price_1K to 2K, Sale, Style_Short",163
+pamba-pant,Pamba pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Peach, Price_0K-1K, Sale, Style_Broad Pant",367
+hemavati-kurta,Hemavati kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Dark Grey, Color_White, Neck Type_Round Neck Slit, Price_1K to 2K, Sale, Style_Princess Cut",157
+mandovi-pant,Mandovi pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Blue, Color_Red, Price_0k-1K, Style_Cigarette Pant",355
+painganga-kurta,Painganga kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Blue, Neck Type_Round Neck Slit, Price_1K to 2K, Sale, Style_Princess Cut",151
+manjira-kurta,Manjira kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Peach, Color_White, Neck Type_Round Neck Slit, Price_1K to 2K, Sale, Style_Princess Cut",145
+netravati-angarakha,Netravati angarakha,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Dark Brown, Neck Type_V Neck, Price_2K to 3K, Sale, Style_Open Angarakha",139
+netravatin-pant,Netravatin pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Wheat, Price_0k-1K, Sale, Style_Broad Pant",349
+mandovi-angrakha,Mandovi angrakha,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Maroon, Color_Pink, Neck Type_V Neck, Price_2K to 3K, Sale, Style_Open Angarakha",133
+bhagirathi-angarakha,Bhagirathi angarakha,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Pink, Color_White, Neck Type_V Neck, Price_2K to 3K, Sale, Style_Open Angarakha",127
+beas-pant,Beas pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Wheat, Price_0k-1K, Sale, Style_Cigarette Pant",337
+panzara-kurta,Panzara kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Silver, Neck Type_Chinese Collar, Price_1K to 2K, Sale, Style_Princess Cut",121
+subarnarekha-pant,Subarnarekha pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Purple, Price_0k-1K, Style_Cigarette Pant",325
+pavana-kurta,Pavana kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Pink, Neck Type_Chinese Collar, Price_1K to 2K, Sale, Style_Princess Cut",115
+zuari-kurta,Zuari kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Purple, Color_White, Neck Type_Chinese Collar, Price_1K to 2K, Sale, Style_Princess Cut",109
+vaigai-kurta,Vaigai kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Antique Moss, Color_Blue, Neck Type_Round Neck, Price_1K to 2K, Style_Short Kali",103
+vellar-kurta,Vellar kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Silver, Neck Type_Round Neck, Price_1K to 2K, Style_Short Kali",097
+vardha-pant,Vardha pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Silver, Price_0K-1K, Sale, Style_Cigarette Pant",307
+ghaghara-kurta,Ghaghara kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Purple, Neck Type_Round Neck, Price_1K to 2K, Style_Short Kali",091
+vellar-pant,Vellar pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Blue, Price_0K-1K, Sale, Style_Cigarette Pant",301
+ghaghra-pant,Ghaghra pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Purple, Price_0K-1K, Sale, Style_Cigarette Pant",295
+chambal-kurta,Chambal kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Silver, Neck Type_V Neck, Price_1K to 2K, Style_Knee Length",085
+zuari-pant,Zuari pants,Pants,"Category_Pants, Category_Women, Collection_Nadiyan Kinare, Color_Peach, Color_White, Price_0k-1K, Sale, Style_Broad Pant",289
+dras-kurta,Dras kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Light Pink, Neck Type_V Neck, Price_1K to 2K, Sale, Style_Knee Length",079
+jhelum-kurta,Jhelum Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Light Purple, Neck Type_V Neck, Price_1K to 2K, Style_Knee Length",073
+long-angarakha-white-and-yellow-color-kurta,Kaveri Angrakha,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_White, Color_Yellow, Neck Type_V Neck, Price_1K to 2K, Sale, Style_Closed Angarakha",067
+long-angarakha-rani-pink-color-kurta,Narmada Angrakha,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Rani Pink, Neck Type_V Neck, Price_1K to 2K, Style_Closed Angarakha",061
+long-straight-coffee-color,Godavari Angrakha,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Coffee, Neck Type_V Neck, Price_1K to 2K, Sale, Style_Closed Angarakha",055
+long-straight-white-and-pea-nut-color,Beas Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Pea Nut, Color_White, Neck Type_Boat, Price_1K to 2K, Sale, Style_Straight Cut",049
+long-straight-white-and-light-orange-color,Tapti Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Light Orange, Color_White, Neck Type_Boat, Price_1K to 2K, Sale, Style_Straight Cut",043
+long-straight-brown-color,Doda Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Brown, Neck Type_Boat, Price_1K to 2K, Sale, Style_Straight Cut",037
+a-line-white-and-antique-moss,Hoogly Kurta,Kurta,"Category_Kurta, Category_Women, Color_Antique Moss, Color_White, Neck Type_Round, Price_1K to 2K, Sale, Style_A Line",031
+a-line-white-and-blue-kurta,Sutlej Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Blue, Color_White, Neck Type_Round, Price_1K to 2K, Style_A Line",025
+long-straight-peach-and-white-kurta,Chenab Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Peach, Color_White, Neck_Round Neck, Price_1K to 2K, Sale, Style_Straight Cut",019
+long-straight-white-kurta,Alaknanda Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_White, Neck Type_Deep Round, Price_1K to 2K, Sale, Style_Straight Cut",013
+straight-blue-white-kurta,Betwa Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Blue, Color_White, Neck Type_Deep Round, Price_1K to 2K, Sale, Style_Straight Cut",007
+peachful-desire,Kosi Kurta,Kurta,"Category_Kurta, Category_Women, Collection_Nadiyan Kinare, Color_Peach, Neck Type_Deep Round, Price_1K to 2K, Sale, Style_Straight Cut",001

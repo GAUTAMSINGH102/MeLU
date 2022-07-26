@@ -1,0 +1,82 @@
+Category_Kurta Sets
+Category_Women
+Collection_Rozana
+kurta for Women
+Neck Type_V Neck
+Price_3K to 4K
+Category_Kaftan
+Category_Kurta
+Category_Lounge Wear
+Collection_Fursat ke Pal
+Color_White
+Price_1K to 2K
+Style_Short
+Color_Mustard
+Color_Ice Blue
+Color_Blue
+Color_Sea Blue
+Color_Light Blue
+Color_Grey
+Color_Peanut
+Color_Peach
+Color_Indigo
+Category_Men
+Category_Shirt
+Collection_Nadiyan Kinare
+Color_Dark Blue
+Sale
+Style_Men Shirt
+Color_Ash
+Color_Purple
+Color_Silver
+Color_Antique Moss
+Color_Maroon
+Color_Pink
+Color_Cream
+Color_Green
+Color_Brown
+Color_Olive Green
+Color_Yellow
+Color_Skin
+Neck Type_Round Neck
+Style_Round Neck Comfort Fit
+Style_Broad Pants
+Style_Kaftan
+Color_Dark Brown
+Style_V Neck With Collar
+Neck Type_Round
+Style_Straight Cut
+Color_Black
+Style_A Line
+Style_Front Slit
+Category_Dupatta
+Style_Kota Doriya
+Color_Orange
+Neck Type_Round Neck Slit
+Color_Teal Blue
+Category_Pants
+Price_0K-1K
+Style_Cigarette Pant
+Style_Broad Pant
+Style_Palazzo
+Price_0k-1K
+Neck Type_Short V-Neck
+Color_Dark Grey
+Style_Princess Cut
+Color_Red
+Price_2K to 3K
+Style_Open Angarakha
+Color_Wheat
+Neck Type_Chinese Collar
+Style_Short Kali
+Style_Knee Length
+Color_Light Pink
+Color_Light Purple
+Style_Closed Angarakha
+Color_Rani Pink
+Color_Coffee
+Color_Pea Nut
+Neck Type_Boat
+Color_Light Orange
+Neck_Round Neck
+Neck Type_Deep Round
